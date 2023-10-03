@@ -7,17 +7,44 @@
 .page-nav .link {
     color: #2E2F42;
 }
-.page-nav .link:hover,
-.page-nav .link:focus {
-    color: #404BBF;}
+    .page-nav .link:hover,
+    .page-nav .link:focus {
+        color: #404BBF;}
+    .page-nav .logo {
+        color: #4d5ae5;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    }
+    .page-nav .stud {
+        color: #2e2f42;
+    }
+
+    .adres {
+        color: #434455;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    }
+        .adres :hover,
+        .adres :focus {
+            color: #404bbf;
+        }
+
 
 
 .section-one {
     background-color: #2E2F42;
+}
+    .section-one .zag {
     color: #FFFFFF;
     text-align: center;
     font-size: 56px;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     line-height: 1.07;
 }
 
@@ -25,16 +52,16 @@
     font-family: "Roboto", sans-serif;
     color: #FFFFFF;
     background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
     cursor: pointer;
+    text-align: center;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;   
 }
-.button :hover,
-.button :focus {
-    background-color: #404BBF;
+    .button :hover,
+    .button :focus {
+        background-color: #404BBF;
 }
 
 .section-two {
@@ -44,7 +71,7 @@
     line-height: 24px;
     letter-spacing: 0.4px;
 }
-    .section-two .paragraph {
+    .section-two .par {
         color: #434455;
         font-size: 16px;
         line-height: 1.5;
@@ -79,11 +106,12 @@
     }
 
 .section-four {
+    color: #2e2f42;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
