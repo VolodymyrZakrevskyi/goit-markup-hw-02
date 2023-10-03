@@ -1,3 +1,8 @@
+.body-block {font-family: 'Raleway', sans-serif; font-family: 'Roboto', sans-serif;}
+.body-block {color:#434455; background-color: #FFFFFF;}
+.body-block .text {color: #FFFFFF;}
+
+
 
 .page-nav .link {
     color: #2E2F42;
@@ -25,9 +30,6 @@ header {
 
 
            
-            .page-body {
-                font-family: "Roboto", sans-serif;
-            }
 
 .section-three {
     background-color: #F4F4FD;
