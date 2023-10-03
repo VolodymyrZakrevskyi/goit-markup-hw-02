@@ -1,0 +1,43 @@
+
+.page-nav .link {
+    color: #2E2F42;
+}
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color: #404BBF;}
+
+
+.section-one {
+    background-color: #2E2F42;
+}
+.button {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+button :hover,
+button :focus {
+    background-color: #404BBF;
+}
+
+header {
+    background-color: #E7E9FC;
+}
+
+
+           
+            .page-body {
+                font-family: "Roboto", sans-serif;
+            }
+
+.section-three {
+    background-color: #F4F4FD;
+}
+footer {
+    background-color: #2E2F42;
+}
+.text {
+    color: #FFFFFF;
+}
+.text1 {
+    color: #F4F4FD;
+}
