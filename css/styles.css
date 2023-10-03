@@ -1,7 +1,9 @@
 .body-block {font-family: 'Raleway', sans-serif; font-family: 'Roboto', sans-serif;}
 .body-block {color:#434455; background-color: #FFFFFF;}
 .body-block .text {color: #FFFFFF;}
-
+ul {
+    list-style-type: none;
+}
 
 .page-nav .logo {
     color: #4d5ae5;
@@ -75,33 +77,28 @@
     line-height: 24px;
     letter-spacing: 0.4px;
 }
-    .section-two .par {
+    .section-two .par-two {
         color: #434455;
         font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 0.4px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         font-weight: 400;
     }
 
 .section-three {
     background-color: #F4F4FD;
-    color: #2e2f42;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.11;
-    letter-spacing: 0.72px;
-    text-transform: capitalize;
-    text-align: center
 }
     .section-three .team {
         color: #2e2f42;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.11;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
     }
-    .section-three .par {
+    .section-three .par-three {
         color: #434455;
         font-size: 16px;
         font-weight: 400;
@@ -121,10 +118,13 @@
 }
     .section-four .portfolio {
         color: #2e2f42;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.11;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
     }
         .section-three .par {
             color: #434455;
