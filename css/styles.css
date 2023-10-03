@@ -6,6 +6,9 @@
 
 .page-nav .link {
     color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
     .page-nav .link:hover,
     .page-nav .link:focus {
@@ -132,8 +135,25 @@
 
 
 .footer-block {
-    background-color: #2E2F42;
+    background-color: #2E2F42; 
 }
+    .footer-block .logo {
+        color: #4d5ae5;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    }
+    .footer-block .stud {
+        color: #f4f4fd;
+    }
+    .footer-block .parfoot {
+        color: #f4f4fD;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    }
 
 
 header {
