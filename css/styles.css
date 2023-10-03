@@ -3,7 +3,19 @@
 .body-block .text {color: #FFFFFF;}
 
 
+.page-nav .logo {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 
+.page-nav .stud {
+    color: #2e2f42;
+}
 .page-nav .link {
     color: #2E2F42;
     font-weight: 500;
@@ -13,18 +25,7 @@
     .page-nav .link:hover,
     .page-nav .link:focus {
         color: #404BBF;}
-    .page-nav .logo {
-        color: #4d5ae5;
-        font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-    }
-    .page-nav .stud {
-        color: #2e2f42;
-    }
+    
 
     .adres {
         color: #434455;
