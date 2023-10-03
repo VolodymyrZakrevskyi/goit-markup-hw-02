@@ -14,8 +14,6 @@
 
 .section-one {
     background-color: #2E2F42;
-}
-.section-one-text {
     color: #FFFFFF;
     text-align: center;
     font-size: 56px;
@@ -24,6 +22,7 @@
 }
 
 .button {
+    font-family: "Roboto", sans-serif;
     color: #FFFFFF;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
