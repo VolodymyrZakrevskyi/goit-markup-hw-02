@@ -15,14 +15,80 @@
 .section-one {
     background-color: #2E2F42;
 }
+.section-one-text {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
+
 .button {
     color: #FFFFFF;
     background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.04em;   
 }
-button :hover,
-button :focus {
+.button :hover,
+.button :focus {
     background-color: #404BBF;
 }
+
+.section-two {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+    .section-two .paragraph {
+        color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+    }
+
+.section-three {
+    background-color: #F4F4FD;
+    color: #2e2f42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+    .section-three .team {
+        color: #2e2f42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+    }
+    .section-three .par {
+        color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+    }
+
+.section-four {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+
+
+
 
 header {
     background-color: #E7E9FC;
@@ -31,9 +97,8 @@ header {
 
            
 
-.section-three {
-    background-color: #F4F4FD;
-}
+
+
 footer {
     background-color: #2E2F42;
 }
