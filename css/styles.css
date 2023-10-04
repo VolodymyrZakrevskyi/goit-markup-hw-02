@@ -98,6 +98,16 @@ ul {
         text-transform: capitalize;
         text-align: center;
     }
+    .section-three .spysok {
+        background-color: #FFFFFF;
+    }
+    .section-three .zag {
+        color: #2e2f42;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+    }
     .section-three .par-three {
         color: #434455;
         font-size: 16px;
@@ -125,6 +135,12 @@ ul {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
+    }
+    .section-four .zag {
+        color: #2e2f42;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
     }
         .section-three .par {
             color: #434455;
