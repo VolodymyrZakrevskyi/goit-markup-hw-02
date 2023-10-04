@@ -1,3 +1,62 @@
+/* .header {}
+
+.header-navigation {}
+
+.header-logo {
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo-color {
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+}
+
+.header-menu {}
+
+.header-menu-item {}
+
+
+.header-menu-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404BBF
+}
+
+.header-contact {
+    font-style: normal;
+}
+
+.header-contact-menu {}
+
+.header-contact-list {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.header-contact-list:hover,
+.header-contact-list:focus {
+    color: #404BBF
+} */
 .body-block {font-family: 'Raleway', sans-serif; font-family: 'Roboto', sans-serif;
             color:#434455; 
             background-color: #FFFFFF;}
@@ -138,8 +197,6 @@ ul {
     text-transform: capitalize;
     text-align: center;
 }
-    
-    
     .zag-four {
         color: #2e2f42;
         font-weight: 500;
@@ -154,38 +211,7 @@ ul {
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
-/* .portfolio {}
 
-.portfolio-title {
-    color: #2E2F42;
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    text-transform: capitalize;
-}
-
-.portfolio-list {}
-
-.portfolio-item {}
-
-.portfolio-item-imeg {}
-
-.portfolio-subtitle {
-    color: #2E2F42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.portfolio-item-text {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-} */
 /* ---------------------------------------------------ФУТЕР */
 .footer-block {
     background-color: #2E2F42; 
