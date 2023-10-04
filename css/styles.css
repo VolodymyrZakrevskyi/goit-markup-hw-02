@@ -84,9 +84,9 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-    .page-nav .link:hover,
-    .page-nav .link:focus {
-        color: #404BBF;}
+    .link:hover,
+    .link:focus {
+        color: #404bbf;}
     
 
     .adreska {
