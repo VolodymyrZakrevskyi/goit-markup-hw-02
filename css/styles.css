@@ -136,14 +136,14 @@ ul {
         text-transform: capitalize;
         text-align: center;
     }
-    .section-four .portfolio .zag-four {
+    .section-four .zag-four {
         color: #2e2f42;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
     }
-        .section-three .portfolio .par-four {
+        .section-four .par-four {
             color: #434455;
             font-size: 16px;
             font-weight: 400;
