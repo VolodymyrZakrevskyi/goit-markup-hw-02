@@ -30,15 +30,19 @@ ul {
         color: #404BBF;}
     
 
-    .adres {
-        color: #434455;
+    .adreska {
+        
         font-style: normal;
+        
+                }
+    .adreska-spys {
+        color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
-        .adres :hover,
-        .adres :focus {
+        .adres .adreska-spys:hover,
+        .adres .adreska-spys:focus {
             color: #404bbf;
         }
 
