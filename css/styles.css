@@ -65,8 +65,8 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.04em;   
 }
-    .button :hover,
-    .button :focus {
+    .button:hover,
+    .button:focus {
         background-color: #404BBF;
 }
 
@@ -157,9 +157,7 @@ ul {
     }
 
 
-header {
-    background-color: #E7E9FC;
-}
+
 
 
            
