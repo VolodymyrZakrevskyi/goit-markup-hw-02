@@ -30,15 +30,15 @@ ul {
         color: #404BBF;}
     
 
-    .adres a {
+    .adres {
         color: #434455;
         font-style: normal;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
-        .adres:hover,
-        .adres:focus {
+        .adres :hover,
+        .adres :focus {
             color: #404bbf;
         }
 
