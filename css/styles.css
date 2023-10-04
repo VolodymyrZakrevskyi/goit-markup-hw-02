@@ -25,8 +25,8 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-    .page-nav .link:hover,
-    .page-nav .link:focus {
+    .link:hover,
+    .link:focus {
         color: #404BBF;}
     
 
@@ -41,8 +41,8 @@ ul {
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
-        .adres .adreska-spys:hover,
-        .adres .adreska-spys:focus {
+        .adreska-spys:hover,
+        .adreska-spys:focus {
             color: #404bbf;
         }
 
