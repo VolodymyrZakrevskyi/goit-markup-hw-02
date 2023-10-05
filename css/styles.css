@@ -87,7 +87,7 @@ ul {
 .section-three {    
     background-color: #F4F4FD;
 }
-    .section-three-team {
+    .section-three-team h2 {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
@@ -109,7 +109,7 @@ ul {
         letter-spacing: 0.02em;
     }
 /* ------------------------ Секція 4 ----------------------- */
-.section-four {
+.section-four h2 {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
