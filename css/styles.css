@@ -1,13 +1,17 @@
-body { font-family: 'Roboto', sans-serif;
-        color:#434455; 
-        background-color: #FFFFFF;}
+body { 
+    font-family: 'Roboto', sans-serif;
+    color:#434455; 
+    background-color: #FFFFFF;
+}
 a {
     text-decoration: none;
 }
 ul {
     list-style-type: none;
 }
+
 /* ------------------------ Header ----------------------- */
+
 .logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -31,30 +35,30 @@ ul {
     color: #404bbf;}
     
 .adreska {
-        font-style: normal;
+    font-style: normal;
 }
 .adreska-spys {
-        color: #434455;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .adreska-spys:hover,
 .adreska-spys:focus {
-            color: #404bbf;
+    color: #404bbf;
 }
 
 /* ------------------------ Секція 1 ----------------------- */
+
 .section-one {
     background-color: #2E2F42;
 }
-    .section-one .zag {
+.section-one .zag {
     color: #FFFFFF;
     text-align: center;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
     }
-
 .button {
     font-family: "Roboto", sans-serif;
     color: #FFFFFF;
@@ -69,7 +73,9 @@ ul {
 .button:focus {
     background-color: #404BBF;
 }
+
 /* ------------------------ Секція 2 ----------------------- */
+
 .section-two {
     color: #2e2f42;
     font-size: 20px;
@@ -84,31 +90,37 @@ ul {
 }
 
 /* ------------------------ Секція 3 ----------------------- */
+
 .section-three {    
     background-color: #F4F4FD;
 }
-    .section-three-team {
+.section-three-spys {
+    background-color: #FFFFFF;  
+}
+.section-three-team {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    }
+    text-align: center;
+}
+.section-three-zag{
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.section-three-par{
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;    
+ }
 
-    .section-three-zag{
-        color: #2e2f42;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-    }
-    .section-three-par{
-        color: #434455;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-    }
 /* ------------------------ Секція 4 ----------------------- */
+
 .section-four {
     color: #2e2f42;
     font-size: 36px;
@@ -116,6 +128,7 @@ ul {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 .section-four-zag {
     color: #2e2f42;
@@ -129,7 +142,9 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 /* ------------------------ Footeer ----------------------- */
+
 .footer-block {
     background-color: #2E2F42; 
 }
