@@ -1,13 +1,14 @@
-
-.body-block {font-family: 'Raleway', sans-serif; font-family: 'Roboto', sans-serif;
-            color:#434455; 
-            background-color: #FFFFFF;}
-.body-block .text {color: #FFFFFF;}
+body { font-family: 'Roboto', sans-serif;
+        color:#434455; 
+        background-color: #FFFFFF;}
+a {
+    text-decoration: none;
+}
 ul {
     list-style-type: none;
 }
-
-.page-nav .logo {
+/* ------------------------ Header ----------------------- */
+.logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -16,40 +17,33 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
-.page-nav .stud {
+.studio {
     color: #2e2f42;
 }
-.page-nav .link {
+.link {
     color: #2E2F42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-    .link:hover,
-    .link:focus {
-        color: #404bbf;}
+.link:hover,
+.link:focus {
+    color: #404bbf;}
     
-
-    .adreska {
-        
+.adreska {
         font-style: normal;
-        
-                }
-    .adreska-spys {
+}
+.adreska-spys {
         color: #434455;
-        font-size: 16px;
         line-height: 1.5;
-        font-weight: 400;
         letter-spacing: 0.02em;
-    }
-        .adreska-spys:hover,
-        .adreska-spys:focus {
+}
+.adreska-spys:hover,
+.adreska-spys:focus {
             color: #404bbf;
-        }
+}
 
-
-/* ---------------------------------------------------секція 1 */
+/* ------------------------ Секція 1 ----------------------- */
 .section-one {
     background-color: #2E2F42;
 }
@@ -68,17 +62,14 @@ ul {
     cursor: pointer;
     text-align: center;
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;   
 }
-    .button:hover,
-    .button:focus {
-        background-color: #404BBF;
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
 }
-
-
-/* ---------------------------------------------------секція 2 */
+/* ------------------------ Секція 2 ----------------------- */
 .section-two {
     color: #2e2f42;
     font-size: 20px;
@@ -87,95 +78,64 @@ ul {
     letter-spacing: 0.4px;
 }
 .par-two {
-        color: #434455;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        font-weight: 400;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
-
-/* ---------------------------------------------------секція 3 */
-.section-three {
+/* ------------------------ Секція 3-4 ----------------------- */
+.section-three {    
     background-color: #F4F4FD;
 }
-    .section-three .team {
-        color: #2e2f42;
-        font-size: 36px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
-        text-align: center;
-    }
-    .section-three .spysok {
-        background-color: #FFFFFF;
-    }
-    .section-three .zag {
-        color: #2e2f42;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-    }
-    .section-three .par-three {
-        color: #434455;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-    }
-
-
-/* ---------------------------------------------------секція 4 */
-
-.section-four {
+    .section-three-team,
+    .section-four {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
-}
-    .zag-four {
+    }
+    .section-three-team li {
+        background-color: #FFFFFF;
+    }
+    .section-three-team h3,
+    .section-four h3 {
         color: #2e2f42;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
     }
-    .par-four {
+    .section-three-team p,
+    .section-four p {
         color: #434455;
-        font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
 
-/* ---------------------------------------------------ФУТЕР */
+
+/* ------------------------ Footeer ----------------------- */
 .footer-block {
     background-color: #2E2F42; 
 }
-    .footer-block .logot {
-        color: #4d5ae5;
-        font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-    }
-    .footer-block .stud {
-        color: #f4f4fd;
-    }
-    .footer-block .parfoot {
-        color: #f4f4fD;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-    }
+.footer-block .logot {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.footer-block .stud {
+    color: #f4f4fd;
+}
+.footer-block .parfoot {
+    color: #f4f4fD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
 
 
