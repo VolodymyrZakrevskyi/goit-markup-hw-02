@@ -70,14 +70,14 @@ ul {
     background-color: #404BBF;
 }
 /* ------------------------ Секція 2 ----------------------- */
-.section-two h3{
+.section-two {
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.4px;
 }
-.section-two p {
+.par-two {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -87,7 +87,7 @@ ul {
 .section-three {    
     background-color: #F4F4FD;
 }
-    .section-three-team h2 {
+    .section-three-team {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
@@ -96,20 +96,20 @@ ul {
     text-transform: capitalize;
     }
 
-    .section-three-team h3 {
+    .section-three-zag{
         color: #2e2f42;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
     }
-    .section-three-team p {
+    .section-three-par{
         color: #434455;
         line-height: 1.5;
         letter-spacing: 0.02em;
     }
 /* ------------------------ Секція 4 ----------------------- */
-.section-four h2 {
+.section-four {
     color: #2e2f42;
     font-size: 36px;
     font-style: normal;
@@ -117,14 +117,14 @@ ul {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.section-four h3 {
+.section-four-zag {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.section-four p {
+.section-four-par {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
