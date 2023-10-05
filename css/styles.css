@@ -70,14 +70,14 @@ ul {
     background-color: #404BBF;
 }
 /* ------------------------ Секція 2 ----------------------- */
-.section-two {
+.section-two h3{
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.4px;
 }
-.par-two {
+.section-two p {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
